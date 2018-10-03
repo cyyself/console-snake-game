@@ -9,8 +9,8 @@ using std::queue;
 
 #define screen_height 20
 #define screen_width  60
-const char sugar = 'S';
-const char poison = 'P';
+const char sugar = '$';
+const char poison = '@';
 
 #define OS_UNIX
 //#define OS_WINDOWS
