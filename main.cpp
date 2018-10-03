@@ -1,6 +1,7 @@
 #include <cstdio>
 #include <cstring>
 #include <cstdlib>
+#include <ctime>
 #include <unistd.h>
 #include <pthread.h>
 #include <queue>
